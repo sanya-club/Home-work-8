@@ -749,7 +749,7 @@ body {
 .main-footer {
   background: url(../img/footerr-bg.jpg) no-repeat center bottom;
   /*  padding: 39px 0;*/
-  z-index: -10;
+  /*z-index: -10;*/
   position: relative;
   width: 100%;
 }
