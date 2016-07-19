@@ -296,7 +296,7 @@ body {
 }
 
 .main-content {
-  box-shadow: 0px 3px 10px #0f1518;
+  box-shadow: 0px 10px 19px -7px #0f1518;
   z-index: 10;
 }
 
@@ -665,7 +665,7 @@ body {
 .coments {
   width: 100%;
   background: #ececec;
-  box-shadow: 1px 1px 0 0 #ccc;
+  /*  box-shadow: 0px 10px 19px -7px #000;*/
   padding: 94px 0 96px 0;
   box-sizing: border-box;
 }
