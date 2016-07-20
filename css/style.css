@@ -752,6 +752,7 @@ body {
   /*z-index: -10;*/
   position: relative;
   width: 100%;
+  box-shadow: inset 0px 10px 19px -7px #000;
 }
 
 .menu--right {
