@@ -1094,6 +1094,9 @@ body {
   .menu--right .menu__list:last-child {
     padding-left: 25px;
   }
+   .menu--right .menu__list:hover {
+    background: transparent;
+  }
   /*======copyright 480px=========*/
   .copyright {
     width: 100%;
